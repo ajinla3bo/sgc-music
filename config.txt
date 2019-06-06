@@ -3,4 +3,4 @@ owner=473837190145900575
 prefix=$
 game=$help l by ajinla3bo
 stayinchannel=true
-songinstatus=true
+songinstatus=false
